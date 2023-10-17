@@ -1,6 +1,6 @@
 ---
 layout: page
-title: peopple
+title: people
 permalink: /people/
 description: The ones who make our lab a fun place to be at.
 nav: true
