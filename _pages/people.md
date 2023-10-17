@@ -4,7 +4,7 @@ title: people
 permalink: /projects/
 description: The ones who make our lab a fun place to be at.
 nav: true
-display_categories: [professors, students]
+display_categories: [professors, students, alumni]
 horizontal: false
 ---
 <div class="projects">
