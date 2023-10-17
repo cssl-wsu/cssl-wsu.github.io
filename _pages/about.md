@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 description: Welcome to Cyberphysical Systems Security Lab <a href="https://wichita.edu" target="blank">@WSU</a>.
 
