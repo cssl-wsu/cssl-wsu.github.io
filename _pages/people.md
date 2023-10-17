@@ -1,10 +1,10 @@
 ---
 layout: page
-title: people
-permalink: /projects/
+title: People
+permalink: /people/
 description: The ones who make our lab a fun place to be at.
 nav: true
-display_categories: [professors, students, alumni]
+display_categories: [Faculty, Graduate, Undergrad, Alumni]
 horizontal: false
 ---
 <div class="projects">
