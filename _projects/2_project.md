@@ -1,9 +1,9 @@
 ---
 layout: page
 title: Amey Shukla
-description: Grad Student.
+description: Master's Student. Graduated in 2023.
 img: /assets/img/cat.gif
-redirect: https://ameh.dev
+redirect: https://amey.dev
 importance: 3
-category: students
+category: alumni
 ---
