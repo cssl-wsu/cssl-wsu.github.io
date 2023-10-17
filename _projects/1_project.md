@@ -5,7 +5,7 @@ description: Associate Professor @WSU.
 img: /assets/img/sergio.png
 redirect: https://www.wichita.edu/profiles/academics/engineering/SoC/Salinas-Sergio.php
 importance: 1
-category: professors
+category: Faculty
 ---
 
 Every project has a beautiful feature showcase page.
